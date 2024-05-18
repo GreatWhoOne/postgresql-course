@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
- <img alt="GIF" title="GIF" src="./github/course-logo.jpg"/>
+ <img alt="Image" title="Image-course" src="./github/course-logo.jpg"/>
 </p>
